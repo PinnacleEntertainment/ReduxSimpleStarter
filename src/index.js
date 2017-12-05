@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import SearchBar from './components/seach_bar';
+import SearchBar from './components/search_bar';
 
 const API_KEY = 'AIzaSyDcSKBBG28vrs5sgS_DZpKmPzvI8NwpVv4';
 
